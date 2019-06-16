@@ -1,4 +1,5 @@
-# Sea Battle
+# Sea Battle, Stoyanovskiy Lev, 33536/2
+Экзаменационный проект.
 
 ## Описание
 Игра морской бой. 
