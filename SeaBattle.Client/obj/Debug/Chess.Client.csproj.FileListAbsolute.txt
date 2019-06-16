@@ -1,0 +1,9 @@
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\Chess.Client.exe.config
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\Chess.Client.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\Chess.Client.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.csprojResolveAssemblyReference.cache
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.LoginForm.resources
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.Properties.Resources.resources
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.csproj.GenerateResource.Cache
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\Chess.Client.pdb

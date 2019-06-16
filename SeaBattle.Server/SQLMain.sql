@@ -1,0 +1,10 @@
+﻿CREATE TABLE [Users]
+(
+	[Id] INT NOT NULL UNIQUE IDENTITY(1, 1),
+	[Login] NVARCHAR(30) NOT NULL,
+	--PWDENCRYPT('password')
+	[PassHash] VARBINARY(128) NOT NULL,
+	[Token] NVARCHAR(30),
+	[Rating] SMALLINT
+)
+

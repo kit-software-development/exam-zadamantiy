@@ -1,0 +1,15 @@
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\SeaBattle.Client.exe.config
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\SeaBattle.Client.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\SeaBattle.Client.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\SeaBattle.Lib.dll
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\SeaBattle.Lib.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.csprojResolveAssemblyReference.cache
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.Properties.Resources.resources
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.csproj.GenerateResource.Cache
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.pdb
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.Game.resources
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.LoginForm.resources
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Client\bin\Debug\Resources\AnimeFont.ttf
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.LobbyForm.resources
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Client\obj\Debug\SeaBattle.Client.PreGame.resources

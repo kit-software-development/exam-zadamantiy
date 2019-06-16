@@ -1,0 +1,5 @@
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Lib\bin\Release\SeaBattle.Lib.dll
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Lib\bin\Release\SeaBattle.Lib.pdb
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Lib\obj\Release\SeaBattle.Lib.dll
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Lib\obj\Release\SeaBattle.Lib.pdb
+C:\Users\zadamantiy\Documents\Visual Studio 2015\Projects\Chess.Lib\Chess.Lib\obj\Release\SeaBattle.Lib.csprojResolveAssemblyReference.cache

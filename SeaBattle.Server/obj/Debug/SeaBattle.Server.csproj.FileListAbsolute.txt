@@ -1,0 +1,10 @@
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\SeaBattle.Server.exe.config
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\ServerDB.mdf
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\ServerDB_log.ldf
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\SeaBattle.Server.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\SeaBattle.Server.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\obj\Debug\SeaBattle.Server.exe
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\obj\Debug\SeaBattle.Server.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\SeaBattle.Lib.dll
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\bin\Debug\SeaBattle.Lib.pdb
+c:\Users\zadamantiy\documents\visual studio 2015\Projects\Chess.Lib\Chess.Server\obj\Debug\SeaBattle.Server.csprojResolveAssemblyReference.cache

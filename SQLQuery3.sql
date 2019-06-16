@@ -1,0 +1,14 @@
+﻿DROP TABLE [ActiveMatch];
+
+CREATE TABLE [ActiveMatch]
+(
+	[Id] INT NOT NULL UNIQUE IDENTITY(1, 1),
+	[Token1] NVARCHAR(30) NOT NULL,
+	[Token2] NVARCHAR(30) NOT NULL,
+	[Field1] VARBINARY(2048),
+	[Field2] VARBINARY(2048),
+	[Turn] BIT
+)
+
+
+ALTER TABLE [Users] ADD [Ip] NVARCHAR(15) NOT NULL;  
